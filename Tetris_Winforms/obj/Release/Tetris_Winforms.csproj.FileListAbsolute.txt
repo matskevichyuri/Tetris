@@ -1,0 +1,15 @@
+C:\Users\Юрий\source\repos\Tetris_Winforms\bin\Release\Tetris_Winforms.exe.config
+C:\Users\Юрий\source\repos\Tetris_Winforms\bin\Release\Tetris_Winforms.exe
+C:\Users\Юрий\source\repos\Tetris_Winforms\bin\Release\Tetris_Winforms.pdb
+C:\Users\Юрий\source\repos\Tetris_Winforms\bin\Release\Tetris_dll.dll
+C:\Users\Юрий\source\repos\Tetris_Winforms\bin\Release\Tetris_dll.pdb
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.Tetris_Game.resources
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.Properties.Resources.resources
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.WindowConstructor.resources
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.csproj.GenerateResource.cache
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.csproj.CopyComplete
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.exe
+C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Release\Tetris_Winforms.pdb
