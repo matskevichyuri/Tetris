@@ -13,3 +13,12 @@ C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Debug\Tetris_Winforms.exe
 C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Debug\Tetris_Winforms.pdb
 C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Debug\Tetris_Winforms.Tetris_Game.resources
 C:\Users\Юрий\source\repos\Tetris_Winforms\obj\Debug\Tetris_Winforms.WindowConstructor.resources
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.csproj.AssemblyReference.cache
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.csproj.SuggestedBindingRedirects.cache
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.Tetris_Game.resources
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.Properties.Resources.resources
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.WindowConstructor.resources
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.csproj.GenerateResource.cache
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.csproj.CoreCompileInputs.cache
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.exe
+D:\rep1\Tetris_Winforms\obj\Debug\Tetris_Winforms.pdb

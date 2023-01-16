@@ -4,6 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris_Winforms", "Tetris_Winforms.csproj", "{08B0DF67-2AAF-41C5-A952-C65C58F3FF91}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7AB3D771-CD8B-46CF-BDC5-8CD006B477D4} = {7AB3D771-CD8B-46CF-BDC5-8CD006B477D4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris_dll", "..\Tetris_dll\Tetris_dll.csproj", "{7AB3D771-CD8B-46CF-BDC5-8CD006B477D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{08B0DF67-2AAF-41C5-A952-C65C58F3FF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08B0DF67-2AAF-41C5-A952-C65C58F3FF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08B0DF67-2AAF-41C5-A952-C65C58F3FF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB3D771-CD8B-46CF-BDC5-8CD006B477D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB3D771-CD8B-46CF-BDC5-8CD006B477D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB3D771-CD8B-46CF-BDC5-8CD006B477D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB3D771-CD8B-46CF-BDC5-8CD006B477D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
